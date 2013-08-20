@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BubbleCloud.iml" filepath="$PROJECT_DIR$/BubbleCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gestures/Gestures.iml" filepath="$PROJECT_DIR$/Gestures/Gestures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GesturesProject.iml" filepath="$PROJECT_DIR$/GesturesProject.iml" />
+    </modules>
+  </component>
+</project>
+
